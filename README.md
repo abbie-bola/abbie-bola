@@ -30,15 +30,16 @@ working to achieve:
 
 My vision for the future is an augmented world where technology is used to experience the world more fully & accessibly.
 
-My fascination for technology stemmed from watching & reading: <br>
+My fascination for technology stemmed in my childhood, from watching & reading: <br>
 - Sci-fi Media: Books and Movies -> Zenon (film series), Valerian & the City of a Thousand Planets, Ready Player One
 - DC series (Young Justice)
   
 I am excited to explore the possibilities of AI, and hope to soon be collaborating with fellow tech enthusiasts to optimise technologies to be as energy efficient as possible.
 
-<b> 💎 In 2022, I and some friends launched GenZTechies: A community for African Teens in Tech. <b/>
+<b> 💎 In 2022, I and some friends launched GenZTechies: A community for African Teens in Tech. </b> <br>
 Take a look at our <a href="https://genztechies.com/">website</a> to see what we have been up to in the last 3 years. 
-You are very much welcome to join our community if you are a Black/African tech enthusiast! We love to assist eachother on our tech-journeys
+You are very much welcome to join our community if you are a Black/African tech enthusiast! We love to support eachother on our tech-journeys :) <br>
+> You can also support us (by sponsoring, partnering with us or simply just spreading the word about us, so more people can make connections with fellow techies)
 
 ## Skillset 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=black"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
@@ -52,12 +53,12 @@ You are very much welcome to join our community if you are a Black/African tech 
 
 ## (Non-fic) Reading List
 <h3 style="color:purple;">Currently reading:</h1>
-• <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch by Joel Grus</a> <br>
-• <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a>
+◔ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch by Joel Grus</a> <br>
+◔ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a>
 
 <h3 style="color:purple;">Reading Next:</h1>
-• <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-on Machine Learning by Aurélien Géron</a> <br>
-• <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/">Fluent Python by Luciano Ramalho</a> 
+○ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-on Machine Learning by Aurélien Géron</a> <br>
+○ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/">Fluent Python by Luciano Ramalho</a> 
 
 ## IDEs I Currently Work With
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
