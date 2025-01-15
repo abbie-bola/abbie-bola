@@ -30,6 +30,9 @@ working to achieve:
 
 My vision for the future is an augmented world where technology is used to experience the world more fully & accessibly.
 
+> Scroll down to view my projects & reading list <br>
+> Pinned repositories are below this README section
+
 My fascination for technology stemmed in my childhood, from watching & reading: <br>
 - Sci-fi Media: Books and Movies -> Zenon (film series), Valerian & the City of a Thousand Planets, Ready Player One
 - DC series (Young Justice)
