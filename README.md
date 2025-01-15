@@ -7,7 +7,7 @@ def Nanyachi():
             Tech Enthusiast & Writer (Poet) 
             Consistently Curious
 
-            Other Interests: Art, Literature, Music, Cooking & Connecting with People.
+            Other Interests: Art, Literature, Music, Cooking, & Connecting with People.
             '''
 
   print(about_me)
@@ -23,12 +23,12 @@ if __name__ == "__Nanyachi__":
 </picture>
 
 
-I am in my early stages of exploring the world of Data Science, AI and ML,
+Currently in my early stages of exploring the world of Data Science, AI and ML;
 working to achieve: 
 - my childhood aspiration of contributing to bringing forth an era of highly advanced technology.
 - my aspiration to have a career centred on building sustainable technologies, that encourage regenerative practices.
 
-My vision for the future is an augmented world where technology is used to experience the world more fully and accessibly, not as a form of escape.
+My vision for the future is an augmented world where technology is used to experience the world more fully & accessibly.
 
 My fascination for technology stemmed from watching & reading: <br>
 - Sci-fi Media: Books and Movies -> Zenon (film series), Valerian & the City of a Thousand Planets, Ready Player One
@@ -37,7 +37,7 @@ My fascination for technology stemmed from watching & reading: <br>
 I'm excited to explore the possibilities of AI, and hope to soon be collaborating with fellow tech enthusiasts to optimise AI and other technologies to be as energy efficient as possible.
 
 <b> 💎 In 2022, I and some friends launched GenZTechies: A community for African Teens in Tech. <b/>
-Take a look at our <a href="https://genztechies.com/">website</a> to see what we have been up to in the last 4 years. 
+Take a look at our <a href="https://genztechies.com/">website</a> to see what we have been up to in the last 3 years. 
 You are very much welcome to join our community if you are a Black/African tech enthusiast! We love to assist eachother on our tech-journeys
 
 ## Skillset 
@@ -47,7 +47,7 @@ You are very much welcome to join our community if you are a Black/African tech 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> 
 
 ## Projects
- <a href="https://github.com/abbie-bola/arduino_ml_alarm_clock">Speech Recognition System for an Arduino Alarm Clock</a> <br>
+ <a href="https://github.com/abbie-bola/arduino_ml_alarm_clock">Speech Recognition System for an Arduino Alarm Clock</a> <br> <br>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>	 
 
 ## (Non-fic) Reading List
@@ -62,7 +62,7 @@ You are very much welcome to join our community if you are a Black/African tech 
 ## IDEs I Currently Work With
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abbie-bola/abbie-bola"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abbie-bola/abbie-bola"> <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/abbie-bola/abbie-bola">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abbie-bola/abbie-bola"> 
 
 
 
