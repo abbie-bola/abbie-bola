@@ -34,7 +34,7 @@ My fascination for technology stemmed from watching & reading: <br>
 - Sci-fi Media: Books and Movies -> Zenon (film series), Valerian & the City of a Thousand Planets, Ready Player One
 - DC series (Young Justice)
   
-I'm excited to explore the possibilities of AI, and hope to soon be collaborating with fellow tech enthusiasts to optimise AI and other technologies to be as energy efficient as possible.
+I am excited to explore the possibilities of AI, and hope to soon be collaborating with fellow tech enthusiasts to optimise technologies to be as energy efficient as possible.
 
 <b> 💎 In 2022, I and some friends launched GenZTechies: A community for African Teens in Tech. <b/>
 Take a look at our <a href="https://genztechies.com/">website</a> to see what we have been up to in the last 3 years. 
