@@ -38,7 +38,7 @@ I am excited to explore the possibilities of AI, and hope to soon be collaborati
 
 <b> 💎 In 2022, I and some friends launched GenZTechies: A community for African Teens in Tech. </b> <br>
 Take a look at our <a href="https://genztechies.com/">website</a> to see what we have been up to in the last 3 years. 
-You are very much welcome to join our community if you are a Black/African tech enthusiast! We love to support eachother on our tech-journeys :) <br>
+You are very much welcome to join our community if you are a Black/African tech enthusiast! We love to support eachother on our tech-journeys, no matter the stage you're at: beginner to advanced :) <br>
 > You can support us by sponsoring, partnering with us or simply just spreading the word about us, so more people can join the community & build connections with fellow techies 🎉
 
 ## Skillset 
