@@ -54,11 +54,11 @@ You are very much welcome to join our community if you are a Black/African tech 
 ## (Non-fic) Reading List
 <h3 style="color:purple;">Currently reading:</h1>
 ◔ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch by Joel Grus</a> <br>
-◔ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a>
+◔ <a href="https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a>
 
 <h3 style="color:purple;">Reading Next:</h1>
-○ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-on Machine Learning by Aurélien Géron</a> <br>
-○ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/">Fluent Python by Luciano Ramalho</a> 
+○ <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-on Machine Learning by Aurélien Géron</a> <br>
+○ <a href="https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/">Fluent Python by Luciano Ramalho</a> 
 
 ## IDEs I Currently Work With
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
