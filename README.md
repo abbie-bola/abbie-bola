@@ -57,7 +57,8 @@ You are very much welcome to join our community if you are a Black/African tech 
 ## (Non-fic) Reading List
 <h3 style="color:purple;">Currently reading:</h1>
 ◔ <a href="https://www.oreilly.com/library/view/data-science-from/9781492041122/">Data Science from Scratch by Joel Grus</a> <br>
-◔ <a href="https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a>
+◔ <a href="https://www.goodreads.com/book/show/197175281-the-art-of-systems-architecting-3rd-edition?ref=nav_sb_ss_5_31">The Art of Systems Architecting, 3rd Edition by Mark W. Maier, Eberhardt Rechtin</a> <br>
+○ <a href="https://developer.arm.com/documentation/den0145/latest">ARM Chiplet System Architecture Specification</a> (reading slowly)
 
 <h3 style="color:purple;">Reading Next:</h1>
 ○ <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/">Hands-on Machine Learning by Aurélien Géron</a> <br>
